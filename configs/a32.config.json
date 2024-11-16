@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "AndroidHQ254",
       "repo": "https://github.com/A325F/android_kernel_samsung_a32",
-      "branch": "fifteen",
+      "branch": "15",
       "device": "a32",
       "defconfig": "a32_defconfig"
     },
